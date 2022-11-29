@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "80658834445",
+    "project_id": "dacfladmu3p1",
+    "storage_bucket": "dacfladmu3p1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80658834445:android:9012b1f1617dd22ca3a144",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.ladm_u3_practica1_dbmixta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80658834445-3ta92uooiqgmjq1ms6lve00jvrlgovih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtmkome-jkkugKaKZ_RiZQsLysRxEyHtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80658834445-3ta92uooiqgmjq1ms6lve00jvrlgovih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LADM_U3_Practica1_DBMixta</string>
+    <array name="careerList">
+        <item>ISC</item>
+        <item>IGE</item>
+        <item>BIO</item>
+        <item>QUI</item>
+        <item>CIV</item>
+        <item>ARQ</item>
+        <item>ITI</item>
+    </array>
+</resources>
